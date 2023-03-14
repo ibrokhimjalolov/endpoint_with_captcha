@@ -67,7 +67,7 @@ Plus'lari:
 
 # Asosiy qismi shular edi, endi backend developer endpoint'larni testlashi uchun swagger'ni moslash qoldi)
 
-1. `endpoints/static/swagger-ui-init.js` static fayl yaratish
-2. `endpoints/templates/swagger-ui.html` template yaratish
+1. `endpoints/static/drf-yasg/swagger-ui-init.js` static fayl yaratish
+2. `endpoints/templates/drf-yasg/swagger-ui.html` template yaratish
 3. `endpoints/context_processors.py` context processor yaratish va template context_processors ga qo'shish
 4. check swagger)
